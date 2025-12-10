@@ -1,0 +1,5 @@
+{
+  "name": "Excel to DBC Pro",
+  "description": "A professional-grade, client-side React application to convert Excel CAN Matrix files into Vector DBC format with advanced customization options.",
+  "requestFramePermissions": []
+}
